@@ -1,0 +1,10 @@
+(librepcb_library 27c3bd21-f5d1-426f-9407-8128a5141667
+ (name "My Library")
+ (description "")
+ (keywords "")
+ (author "Francis Thérien")
+ (version "0.1")
+ (created 2020-11-21T22:23:26Z)
+ (deprecated false)
+ (url "")
+)
